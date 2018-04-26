@@ -8,3 +8,13 @@ C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\AddingMachine\AddingMa
 C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\AddingMachine\AddingMachine\obj\Debug\AddingMachine.csproj.CoreCompileInputs.cache
 C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\AddingMachine\AddingMachine\obj\Debug\AddingMachine.exe
 C:\Users\Cyberadmin\Documents\Visual Studio 2017\Projects\AddingMachine\AddingMachine\obj\Debug\AddingMachine.pdb
+C:\Data\AddingMachine\AddingMachine\AddingMachine\bin\Debug\AddingMachine.exe.config
+C:\Data\AddingMachine\AddingMachine\AddingMachine\bin\Debug\AddingMachine.exe
+C:\Data\AddingMachine\AddingMachine\AddingMachine\bin\Debug\AddingMachine.pdb
+C:\Data\AddingMachine\AddingMachine\AddingMachine\obj\Debug\AddingMachine.csprojResolveAssemblyReference.cache
+C:\Data\AddingMachine\AddingMachine\AddingMachine\obj\Debug\AddingMachine.AddingMachine.resources
+C:\Data\AddingMachine\AddingMachine\AddingMachine\obj\Debug\AddingMachine.Properties.Resources.resources
+C:\Data\AddingMachine\AddingMachine\AddingMachine\obj\Debug\AddingMachine.csproj.GenerateResource.cache
+C:\Data\AddingMachine\AddingMachine\AddingMachine\obj\Debug\AddingMachine.csproj.CoreCompileInputs.cache
+C:\Data\AddingMachine\AddingMachine\AddingMachine\obj\Debug\AddingMachine.exe
+C:\Data\AddingMachine\AddingMachine\AddingMachine\obj\Debug\AddingMachine.pdb
